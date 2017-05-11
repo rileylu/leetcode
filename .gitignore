@@ -71,3 +71,6 @@ Thumbs.db
 *.dll
 *.exe
 
+
+.vs/leetcode/v15/Browse.VC.db
+.vs/leetcode/v15/Browse.VC.opendb
